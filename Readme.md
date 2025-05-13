@@ -30,7 +30,7 @@
 
 ### 📂 Highlighted Projects
 
-- 🔬 [**Medicinal Leaf Detection**](https://github.com/poojith1903/medicinal-leaf-detection)  
+- 🔬 [**Medicinal Leaf Detection**](https://github.com/poojith1903/Efficientdet-medicinal-leaf-classification)  
   EfficientDet-D0 model with Grad-CAM & therapeutic recommendation system
 
 
