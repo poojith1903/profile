@@ -33,14 +33,7 @@
 - 🔬 [**Medicinal Leaf Detection**](https://github.com/poojith1903/medicinal-leaf-detection)  
   EfficientDet-D0 model with Grad-CAM & therapeutic recommendation system
 
-- 🏦 [**ATM Interface in Python**](https://github.com/poojith1903/ATM-interface)  
-  Simulates real banking operations (deposit, withdraw, balance check)
 
-- 🍷 [**Wine Quality Prediction**](https://github.com/poojith1903/wine-quality-prediction)  
-  ML model to predict quality using physicochemical features
-
-- 🧠 [**MNIST Digit Recognition**](https://github.com/poojith1903/mnst-dataset)  
-  Handwritten digit classification using neural networks
 
 - 🌐 [**Personal Portfolio**](https://github.com/poojith1903/poojith-portfolio)  
   Built with HTML/CSS, includes resume, projects, and certifications
