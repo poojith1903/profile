@@ -48,9 +48,7 @@
 ---
 
 ### 📜 Certifications & Achievements
-- 🎓 **AI Foundation & AI Advanced** – IBM
-- 🧠 **Quantum Computing Basics** – Qiskit by IBM
-- 🛠️ **Python Development Intern** – OctaNet
+- 🎓 **AI Foundation & AI Advanced** – Hexart
 - 🧪 **Research Capstone** – ICICT 2024 Conference Paper
 
 ---
@@ -60,7 +58,11 @@
 - 📬 Email: poojith1914@gmail.com
 
 ---
-<p align="center">
-  📈 Always learning, building, and pushing boundaries!
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poojith1903&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=poojith1903&theme=dark" />
 </p>
+
 
